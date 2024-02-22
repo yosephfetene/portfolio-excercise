@@ -1,0 +1,178 @@
+#intro{
+    font-family: "kode mono", monospace;
+    display: block;
+    margin: 0px;
+    float: left;
+}
+p{
+    margin: 0px;
+}
+#name{
+    font-size: 40px;
+    margin: 0px;
+    position: relative;
+    left: 50px;
+    top: 20px;
+}
+.nav{
+    font-family: "kode mono", monospace;
+    position: relative;
+    right: 170px;
+    top: 25px;
+    display: flex;
+    list-style: none;
+    gap: 25px;
+    font-size:25px;
+    justify-content: flex-end;
+    align-items: flex-start;    
+}
+.home{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    height: 80vh;
+    text-align: center;
+}
+#img1{
+    height: 350px;
+    width: 350px;
+    border-radius: 100%;
+}
+.hello{
+    font-family: "kode mono", monospace;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+#id1{
+    font-size: 20pt;
+    color: rgba(85, 85, 85);
+}
+#id2{
+    font-size: 45pt;
+    font-weight: bold;
+}
+#id3{
+    font-size: 25pt;
+    color: rgba(85, 85, 85);
+}
+#idcv{
+    border: none;
+    width: 100px;
+    height: 30pt;
+    border-radius:30pt;
+    transition-duration: 0.2s;
+}
+#idbt{
+    border: none;
+    width: 100px;
+    height: 30pt;
+    border-radius:30pt;
+    transition-duration: 0.2s;
+}
+#idcv:hover{
+    border: solid;
+    border-width: 1pt;
+    background-color: gray;
+}
+#idbt:hover{
+    border: solid;
+    border-width: 1pt;
+    background-color: gray;
+}
+#about{
+    position: relative;
+    top: 50px;
+}
+.nav1{
+    background-color: white;
+    text-decoration: none;
+    color: black;
+    background-color: white;
+}
+.nav2{
+    background-color: white;
+    text-decoration: none;
+    color: black;
+    background-color: white;
+}
+.nav3{
+    background-color: white;
+    text-decoration: none;
+    color: black;
+    background-color: white;
+}
+#img2{
+    height: 450px;
+    width: 400px;
+    border-radius: 25pt;
+}
+#get{
+    text-align: center;
+    color: rgba(85, 85, 85);
+    font-size: 15pt;
+    font-family: "kode mono", monospace;
+}
+#ab{
+    text-align: center;
+    font-size: 30pt;
+    font-family: "kode mono", monospace;
+}
+#hnext{
+    display: flex;
+    gap: 30px;
+    justify-content: center;
+}
+#hnext22{
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+}
+#hnext3{
+    width: 300px;
+    height: 220px;
+    display: flex;
+    flex-direction: column;
+    border: solid;
+    border-radius: 30pt;
+    border-width: 1pt;
+    align-items: center;
+    gap: 10px;
+}
+#hnext4{
+    width: 300px;
+    height: 220px;
+    display: flex;
+    flex-direction: column;
+    border: solid;
+    border-radius: 30pt;
+    border-width: 1pt;
+    align-items: center;
+    gap: 10px;
+}
+#hnext5{
+    width: 600px;
+    height: 100px;
+    position: relative;
+    top: 20px;
+    color: rgba(95, 95, 95);
+}
+.icon{
+    width: 30px;
+    height: 30px;
+    position: relative;
+    top: 10px;
+}
+.exp{
+    font-size: 20pt;
+    color: rgba(85, 85, 85);
+}
+.list{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+P{
+    font-family: "kode mono", monospace;
+}
